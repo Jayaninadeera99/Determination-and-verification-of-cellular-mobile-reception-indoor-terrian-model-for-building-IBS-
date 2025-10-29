@@ -23,7 +23,7 @@ Improves Signal Across All Frequencies: Repeaters work with multiple cellular fr
 
  Objectives, Deliverables, Milestones and tasks
 
-7.2.1) Objectives
+**Objectives**
 
 The objective of this project is to develop and validate a precise indoor terrain model for cellular mobile reception, specifically designed for the seven floors of the Zenith building at Malabe CINEC Campus. The primary purpose of this model is to improve the accuracy of predicting signal propagation within the building. The ultimate goal is to identify potential solutions to enhance cellular connectivity for students, faculty, and visitors.
 
