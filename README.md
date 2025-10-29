@@ -83,7 +83,7 @@ Integration and Real-World Testing
 **Methodology**
 Choosing the Best Method to Improve Signal Strength Inside the Building
 
-
+![image alt](https://github.com/Jayaninadeera99/Determination-and-verification-of-cellular-mobile-reception-indoor-terrian-model-for-building-IBS-/blob/3832c8b6fe15907d73bd80f9166ee178aaa634ef/methodology.png)
 
 
 
